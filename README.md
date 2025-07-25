@@ -19,22 +19,22 @@ Simple company-authenticated login with role-based dashboard access
 ### 🧑‍💼 Super Admin Dashboard
 Allows creation of new companies, campaigns, and high-level analytics control
 
-![Super Admin](Images%20file/Superadmin-Dashboard-home-page.png)
+![Super Admin](Images%20file/Superadmin%20Dashboard%20home%20page.png)
 
 ### 👥 Admin Dashboard
 Admin users manage their contacts, schedule campaigns, and track live metrics
 
-![Admin](Images%20file/Admin-Dashbaord.png)
+![Admin](Images%20file/Admin%20Dashbaord.png)
 
 ### 🔁 Call Flow Setup
 Visual interface to configure voice call logic and bot flow trees
 
-![Call Flow](Images%20file/Campaign-creation-flow-start.png)
+![Call Flow](Images%20file/Campaign%20creation%20flow%20start.png)
 
 ### 📊 Analytics View (Campaign Details page)
 Real-time metrics on calls made, customer responses, and fallback scenarios
 
-![Analytics](Images%20file/Campaign-Details-page.png)
+![Analytics](Images%20file/Campaign%20Details%20page.png)
 
 ---
 
