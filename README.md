@@ -14,7 +14,7 @@ This dashboard system was designed for managing automated voice call campaigns u
 ### 🔐 Login Screen
 Simple company-authenticated login with role-based dashboard access
 
-![Login](Images%20file/Superadmin-login-page.png)
+![Login](Images%20file/Superadmin%20login%20page.png)
 
 ### 🧑‍💼 Super Admin Dashboard
 Allows creation of new companies, campaigns, and high-level analytics control
