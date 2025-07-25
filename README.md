@@ -14,27 +14,27 @@ This dashboard system was designed for managing automated voice call campaigns u
 ### 🔐 Login Screen
 Simple company-authenticated login with role-based dashboard access
 
-![Login](Superadmin-login-page.png)
+![Login](Images%20file/Superadmin-login-page.png)
 
 ### 🧑‍💼 Super Admin Dashboard
 Allows creation of new companies, campaigns, and high-level analytics control
 
-![Super Admin](Superadmin-Dashboard-home-page.png)
+![Super Admin](Images%20file/Superadmin-Dashboard-home-page.png)
 
 ### 👥 Admin Dashboard
 Admin users manage their contacts, schedule campaigns, and track live metrics
 
-![Admin](Admin-Dashbaord.png)
+![Admin](Images%20file/Admin-Dashbaord.png)
 
 ### 🔁 Call Flow Setup
 Visual interface to configure voice call logic and bot flow trees
 
-![Call Flow](Campaign-creation-flow-start.png)
+![Call Flow](Images%20file/Campaign-creation-flow-start.png)
 
 ### 📊 Analytics View (Campaign Details page)
 Real-time metrics on calls made, customer responses, and fallback scenarios
 
-![Analytics](Campaign-Details-page.png)
+![Analytics](Images%20file/Campaign-Details-page.png)
 
 ---
 
